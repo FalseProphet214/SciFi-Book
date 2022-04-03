@@ -7,8 +7,12 @@
         "id": "56bb625b938ddb82",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Chapters/Chapter 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapters/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,7 @@
     "collapsed": true
   },
   "active": "56bb625b938ddb82",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chapters/Chapter 1.md"
+  ]
 }
