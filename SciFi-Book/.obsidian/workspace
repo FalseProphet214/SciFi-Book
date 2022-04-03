@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapters/Chapter 1.md",
+            "file": "World Information/Locations/Location 1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter 1.md",
+                "file": "World Information/Locations/Location 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,14 @@
   },
   "active": "56bb625b938ddb82",
   "lastOpenFiles": [
+    "World Information/Locations/Location 1.md",
+    "World Information/History/Beginning.md",
+    "Story/Side Stories/Side Story.md",
+    "Story/Main Story/Main story.md",
+    "Character Information/Side Characters/Side Character.md",
+    "Character Information/Antagonists/Main Antagonist.md",
+    "Character Information/Protagonists/Main protagonist.md",
+    "Main protagonist.md",
     "Chapters/Chapter 1.md"
   ]
 }
