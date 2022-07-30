@@ -1,5 +1,5 @@
 # SciFi-Book
-Creating this Repo for a book Project with Matt. Fucked up the first one, so creating this one</br>
+Creating this Repo for a book Project with Matt.</br>
 </br>
 Steps on how to add information to the Obsidian Vault</br>
 </br>
